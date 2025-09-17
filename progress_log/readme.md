@@ -16,7 +16,7 @@ This log documents my weekly progress in learning data analytics (SQL, Excel, Bu
 - Next Steps:
   - Begin SQL aggregation queries (SUM, COUNT, GROUP BY).
   - Practice Excel formulas (SUMIF, VLOOKUP).
-   Reflections:
+- Reflections:
   - Biggest lesson: consistency matters more than intensity.
   - Challenge: balancing study with work and family — short focused sprints work best.
 

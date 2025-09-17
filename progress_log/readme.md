@@ -20,7 +20,7 @@ This log documents my weekly progress in learning data analytics (SQL, Excel, Bu
   - Biggest lesson: consistency matters more than intensity.
   - Challenge: balancing study with work and family — short focused sprints work best.
 
-## Week 2 (Sept 8 – Sept 14, 2025)
+# Week 2 (Sept 8 – Sept 14, 2025)
 
 - Achievements:
   - Practiced Excel formulas beyond the basics: SUMIFS, IF, TRIM, PROPER, SUBSTITUTE.

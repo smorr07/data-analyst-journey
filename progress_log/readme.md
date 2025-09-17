@@ -21,11 +21,22 @@ This log documents my weekly progress in learning data analytics (SQL, Excel, Bu
   - Challenge: balancing study with work and family — short focused sprints work best.
 
 ## Week 2 (Sept 8 – Sept 14, 2025)
+
 - Achievements:
-  - [to be updated]
+  - Practiced Excel formulas beyond the basics: SUMIFS, IF, TRIM, PROPER, SUBSTITUTE.
+  - Cleaned messy datasets: standardized phone numbers, validated email addresses, split inconsistent name fields.
+  - Built pivot tables to analyze regional sales and sort revenue.
+  - Completed a “challenge round” Excel dataset simulating real-world messy data.
+  - Strengthened SQL understanding of GROUP BY vs. PARTITION BY and practiced hybrid queries with CTEs + window functions.
+  - Learned and applied ranking functions (ROW_NUMBER, RANK, DENSE_RANK) in customer and product sales analysis.
 - Next Steps:
-  - [to be updated]
+  - More practice with Excel messy datasets (focus on dates, product codes, and missing values).
+  - SQL practice combining joins with window functions.
+  - Begin introducing business insights questions to practice asking the “why” behind the data.
+
 - Reflections:
-  - [to be updated]
+  - Realized Excel data cleaning builds the same mindset needed in SQL query writing.
+  - Learning to slow down and ask clarifying questions before writing queries has improved accuracy.
+  - Time continues to be tight, but short focused study blocks are working well.
 
 

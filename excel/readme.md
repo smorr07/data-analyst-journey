@@ -9,15 +9,17 @@ Excel_Practice_Workbook.xlsx
 A multi-sheet workbook covering the following topics:
 
 - Basics & Core Functions
-        Practice with SUMIFS, IF statements, TRIM, PROPER, and other essential formulas.
+  - Practice with SUMIFS, IF statements, TRIM, PROPER, and other essential formulas.
 - Pivot Tables & Charts
-        Exercises to summarize sales and regional data using pivot tables and visualizations.
+  - Exercises to summarize sales and regional data using pivot tables and visualizations.
 - Data Cleaning – Phone Numbers
-        Tasks to standardize inconsistent phone number formats.
+  - Tasks to standardize inconsistent phone number formats.
 - Data Cleaning – Emails
-        Identify and correct invalid email addresses using formulas like SUBSTITUTE, TRIM, and SEARCH.
+  - Identify and correct invalid email addresses using formulas like SUBSTITUTE, TRIM, and SEARCH.
 - Challenge Round – Dashboard Building
-        Combine cleaned datasets into pivot tables and charts to create a simple performance dashboard.
+  - Combine cleaned datasets into pivot tables and charts to create a simple performance dashboard.
+- Excel Help - Formula References
+  - A quick reference guide to common data cleaning formulas to help speed up learning and practice. 
 
 # Learning Objectives
 

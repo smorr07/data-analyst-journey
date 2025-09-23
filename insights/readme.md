@@ -10,3 +10,9 @@ Examples include:
 
 Each file will contain a short business problem and a structured solution approach.
 
+----
+
+- Translating SQL Results to Action:
+  - Identify customers with no orders to target re-engagement
+  - Highlight zero-sales products for inventory or marketing review
+

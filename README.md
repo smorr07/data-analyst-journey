@@ -24,7 +24,7 @@ I’m learning and practicing **SQL, Excel, and Business Analytics** through str
 - Hybrid Queries: Combining `GROUP BY` + `PARTITION BY` with CTEs  
 
 ### Excel
-- Core Functions: `SUMIF`, `SUMIFS`, `VLOOKUP`, `INDEX-MATCH`, `IF`  
+- Core Functions: `SUMIF`, `SUMIFS`, `VLOOKUP`, `IF`  
 - Data Cleaning: `TRIM`, `PROPER`, `SUBSTITUTE`, handling dates/numbers/text  
 - Validation: phone numbers, email cleanup, duplicate handling  
 - Pivot Tables & Charts: summarizing and visualizing data  
@@ -48,7 +48,7 @@ I’m learning and practicing **SQL, Excel, and Business Analytics** through str
 ## Progress Tracker
 - Week 1 → SQL basics (SELECT, WHERE, ORDER BY), Excel formulas (SUMIF, VLOOKUP).  
 - Week 2 → SQL aggregations, GROUP BY vs PARTITION BY, window functions, hybrid queries, Excel data cleaning (names, numbers, dates, emails).  
-- Ongoing → Expanding practice files, documenting progress weekly.  
+- Week 3 → Completed SQL join challenges and hybrid GROUP BY/PARTITION BY exercises, drafted first end-to-end project question using AdventureWorks (manufacturing delays), and organized GitHub updates for SQL, Excel, and progress logs.  
 
 ---
 

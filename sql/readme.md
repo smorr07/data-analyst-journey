@@ -18,3 +18,6 @@ Each file is numbered to reflect learning progression (e.g., `01_select_basics.s
 - Advanced Patterns:
   - JOIN + GROUP BY for product sales counts
   - COALESCE with SUM/COUNT to replace NULLs
+- Next Steps:
+  - Practice hybrid queries combining GROUP BY and window functions
+  - Explore self-joins and cross joins for hierarchical data

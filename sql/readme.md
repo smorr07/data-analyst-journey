@@ -7,5 +7,5 @@ Topics will progress from fundamentals to advanced concepts, including:
 - Window functions
 - Case studies and applied business problems
 
-Each file is numbered to reflect learning progression (e.g., `01_basics_select.sql`).
+Each file is numbered to reflect learning progression (e.g., `01_select_basics.sql`).
 

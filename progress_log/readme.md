@@ -39,4 +39,28 @@ This log documents my weekly progress in learning data analytics (SQL, Excel, Bu
   - Learning to slow down and ask clarifying questions before writing queries has improved accuracy.
   - Time continues to be tight, but short focused study blocks are working well.
 
+# Week 3 (Sept 15 – Sept 21, 2025)
+
+- Achievements:
+    - SQL:
+      - Completed a full Joins module (INNER, LEFT, RIGHT, FULL).
+      - Practiced identifying the correct join type for different scenarios.
+      - Solved multi-table join challenges using the sample Customers, Orders, and OrderDetails schema.
+      - Learned to combine GROUP BY with joins for product-level order counts.
+      - Added best practices like COALESCE for handling NULLs in aggregates.
+    - Excel:
+      - Built a Formula Reference Workbook documenting all key cleaning formulas we practiced (TRIM, PROPER, SUBSTITUTE, nested IF, email validation, phone cleanup, etc.).
+      - Reinforced data-cleaning workflow: raw → helper columns → validation checks → pivot table summaries.
+    - Business Insights:
+      - Discussed real-world reasoning behind query design (e.g., why INNER JOIN ensures “at least one order”).
+      - Framed SQL results in terms of actionable metrics (e.g., products with zero sales, customers with no orders).
+
+- Next Steps:
+    - SQL: Start Advanced Joins (self-joins, cross joins) and practice JOIN + Window Functions in the same query.
+    - Excel: Build a small End-to-End Cleaning Project that mimics messy CRM exports (emails + phones + dates).
+    - Insights: Practice writing a 2-3 sentence “business takeaway” for each SQL challenge.
+
+- Reflections:
+    - Joins are the backbone of analysis. Knowing when to use INNER vs LEFT JOIN saved a lot of time.
+    - Capturing reusable formulas in one workbook makes future cleaning much faster.
 

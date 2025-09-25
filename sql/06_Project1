@@ -1,4 +1,4 @@
--- SQL Code to pull out relevant production information for analysis in excel
+-- SQL Code to pull out relevant production information from the AdventureWorks2022 dataset for analysis in excel
 
 WITH DaysToMake AS
 (

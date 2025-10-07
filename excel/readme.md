@@ -25,7 +25,7 @@ A multi-sheet workbook covering the following topics:
 
 ---
 
-### **Project1- Productin Issues.xlsx**
+### **Project 1- Production Issues.xlsx**
 An applied Excel workbook analyzing manufacturing performance using SQL export data from the AdventureWorks database.
 
 #### **Focus Areas**

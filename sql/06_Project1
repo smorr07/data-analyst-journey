@@ -1,3 +1,13 @@
+/* 
+AdventureWorks Manufacturing Delay Analysis
+Author: Steven Morrissette
+Date: September 2025
+Description:
+This query analyzes production efficiency in the AdventureWorks database
+by comparing actual manufacturing time vs expected time (DaysToManufacture),
+and identifying scrap rates and production trends by product and category.
+*/
+
 WITH DaysToMake AS
 (
 SELECT 
